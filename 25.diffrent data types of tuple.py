@@ -1,0 +1,14 @@
+A=(1,2,3,4,5,6,7,8,9)
+print(A)
+#Float
+B=(2.2,22.5,22.6,88.6,22.01,33.05)
+print(B)
+#Character 
+C=("A","B","C","D","E","F")
+print(C)
+#String 
+D=("save","the","earth")
+print(D)
+#Mixed 
+E=("save",10,10.3,"10aaa","A")
+print(E)
